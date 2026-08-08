@@ -1,0 +1,13 @@
+﻿column,dtype,n_missing,n_unique,example
+RA_Report #,int64,0,64517,(마스킹)
+RA_CAERS Created Date,str,0,4020,1/1/2004
+AEC_Event Start Date,str,37133,5174,8/4/2003
+PRI_Product Role,str,0,2,Suspect
+PRI_Reported Brand/Product Name,str,0,45685,MIDWEST COUNTRY FAIR CHOCOLATE FLAVORED CHIPS
+PRI_FDA Industry Code,int64,0,44,3
+PRI_FDA Industry Name,str,0,41,Bakery Prod/Dough/Mix/Icing
+CI_Age at Adverse Event,float64,37860,115,2.0
+CI_Age Unit,str,0,6,Year(s)
+CI_Gender,str,0,5,Female
+AEC_One Row Outcomes,str,0,298,"VISITED AN ER, VISITED A HEALTH CARE PROVIDER, REQ. INTERVENTION TO PRVNT PERM. IMPRMNT., HOSPITALIZATION"
+SYM_One Row Coded Symptoms,str,5,33546,"SWELLING FACE, RASH, WHEEZING, COUGH, HOSPITALISATION, DYSPNOEA"
